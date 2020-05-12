@@ -13,7 +13,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>INFOTC 1000</title>
+
 
 </head>
 
