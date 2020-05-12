@@ -8,8 +8,21 @@
 * [Python](https://github.com/knrwdm/FinalProject1000/blob/master/Python.md)
 * [Markdown](https://github.com/knrwdm/FinalProject1000/blob/master/Markdown.md)
 
-<p> This class was a fun class, the professor and TA's were
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>INFOTC 1000</title>
+
+</head>
+
+<body>
+<p>This class was a fun class, the professor and TA's were
 always helpful. I would recommend this class for the basic
-Markdown, Python, and HTML knowledge.
+Markdown, Python, and HTML knowledge.</p>
+</body>
+
+</html>
 
 [Final Project Instructions](https://github.com/knrwdm/FinalProject1000/blob/master/Home.md)
