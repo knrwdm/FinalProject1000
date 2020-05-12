@@ -4,14 +4,12 @@
 
 
 <br> In this class we learned about:
-* [HTML]()
-* [Python]()
-* [Markdown]()
+* [HTML](https://github.com/knrwdm/FinalProject1000/blob/master/HTML.md)
+* [Python](https://github.com/knrwdm/FinalProject1000/blob/master/Python.md)
+* [Markdown](https://github.com/knrwdm/FinalProject1000/blob/master/Markdown.md)
 
 <p> This class was a fun class, the professor and TA's were
 always helpful. I would recommend this class for the basic
 Markdown, Python, and HTML knowledge.
 
-[Click here to learn about HTML](https://www.w3schools.com/html/default.asp)
-<br>[Click here to learn about Python]()
-<br>[Click here to learn about Markdown]()
+[Final Project Instructions](https://github.com/knrwdm/FinalProject1000/blob/master/Home.md)
